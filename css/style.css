@@ -664,7 +664,7 @@ button {
 
 .test_box {
      padding: 30px 25px;
-     background: #d7530a;
+     background: #963602;
 }
 
 .testimonial_Carousel .test_box h4 {
@@ -706,7 +706,7 @@ button {
 }
 
 .testimonial_Carousel .carousel-indicators li.active {
-     background: #d7530a;
+     background: #963602;
 }
 
 .carousel-control-next-icon,
@@ -722,7 +722,7 @@ button {
 
 .main_form {
      padding: 50px 30px;
-     background: #d7530a;
+     background: #963602;
      margin-top: -260px;
      border-radius: 25px;
 }
